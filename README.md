@@ -22,7 +22,7 @@ The tests can also be run in the IDE.
 A coverage report (JaCoCo) is generated automatically after the test run:
 
 ```
-build/reports/jacoco/test/html/index.html
+build/reports/tests/test/index.html
 ```
 
 Coverage currently sits at 100% (lines, branches, methods, and classes).
